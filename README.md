@@ -1,1 +1,1 @@
-# alg-work
+# algoritma ödevi
