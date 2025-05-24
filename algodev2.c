@@ -102,7 +102,7 @@ void arayaekle(int veri,int sira){
     node* temp=head;
     for(int i=0;i<sira-1; i++){
         if(temp==NULL){
-            printf("Girilen değer, liste boyutundan buyuktur!\nEkleme yapilamadi.\n");
+            printf("Girilen deger, liste boyutundan buyuktur!\nEkleme yapilamadi.\n");
             free(yeni);
         }
         temp=temp->next;
