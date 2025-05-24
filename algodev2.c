@@ -136,7 +136,7 @@ void sonaekle(int veri){
 
 void dugumsil(int sira){
     if(head==NULL){
-        printf("Liste Bos\n");
+        printf("Liste: NULL\n");
         return;
     }
     node*temp=head;
